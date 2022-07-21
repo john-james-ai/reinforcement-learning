@@ -4,5 +4,18 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"psi-header.variables": [
+        ["projectCreationYear", "2022"],
+        ["url", "https://github.com/john-james-ai/reinforcement-learning"],
+        ["projectname", "Reinforcement Learning"],
+        ["version", "0.1.0"]
+		],
+		"python.autoComplete.extraPaths": [
+
+		],
+		"python.analysis.extraPaths": [],
+		"python.linting.flake8Enabled": true
+
+	}
 }
